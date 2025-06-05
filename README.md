@@ -1,5 +1,9 @@
 # aspz-lab12-13
 
+ТВ-31 Троцюк Андрій
+
+17 варіант
+
 3. Handling Signals
 
 Обробка сигналів включає:
@@ -104,10 +108,6 @@
 Обробник сигналу з SA_SIGINFO отримує додаткову інформацію через siginfo_t
 
 Код:
-
-![image](https://github.com/user-attachments/assets/dc1b3cc1-14a1-4618-9d46-96311ac7d17b)
-
-Результат:
 
 ![image](https://github.com/user-attachments/assets/6edcf824-6d9b-4d1f-bf04-d445f28019f8)
 
